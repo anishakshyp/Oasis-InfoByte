@@ -1,2 +1,2 @@
 # Oasis-InfoByte
-Internship Task
+Java Development Internship Task
