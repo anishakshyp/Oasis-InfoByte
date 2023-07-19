@@ -13,10 +13,6 @@ The Number Guessing Game is a fun Java project where users can test their guessi
 
 The ATM Interface project is a console-based Java application that simulates the functionalities of an ATM machine. Users can perform various banking operations, such as balance inquiries, withdrawals, deposits, and more, through this interactive interface.
 
-### 4. [Online Examination](https://github.com/anishakshyp/Oasis-InfoByte/blob/main/online%20examination.java)
-
-The Online Examination project provides a platform for conducting MCQ-based exams. With features like user log in, profile management, timer, and auto-submit, it simplifies the examination process and allows administrators to handle exams efficiently.
-
-### 5. [Digital Library Management](https://github.com/anishakshyp/Oasis-InfoByte/blob/main/digital%20library%20management.java)
+### 4. [Digital Library Management](https://github.com/anishakshyp/Oasis-InfoByte/blob/main/digital%20library%20management.java)
 
 The Digital Library Management project offers a complete automated solution for digitizing library operations. From book keeping to issuing books, fine generation, and report generation, all tasks are managed efficiently. With admin control and user privileges, it ensures smooth library management for both staff and patrons.
